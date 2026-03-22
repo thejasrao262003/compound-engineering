@@ -1,0 +1,6 @@
+CREATE TABLE IF NOT EXISTS urls (
+    id BIGINT AUTO_INCREMENT PRIMARY KEY,
+    long_url TEXT not NULL,
+    short_code VARCHAR(10) not NULL,
+    created_at TIMESTAMP DEFAULT CURRENT_TIMESTAMP
+)

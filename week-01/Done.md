@@ -38,9 +38,9 @@
 
 ## Monday
 
-* [ ] Two Sum
-* [ ] Largest Element in Array
-* [ ] Second Largest Element in Array
+* [.] Two Sum
+* [.] Third Largest Element in Array
+* [.] Kth Largest Element in Array
 
 ---
 
